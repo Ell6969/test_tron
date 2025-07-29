@@ -1,0 +1,7 @@
+.env
+venv/
+test.db
+.idea
+__pycache__/
+.vscode
+tt.py
