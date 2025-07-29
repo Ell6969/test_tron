@@ -5,3 +5,4 @@ test.db
 __pycache__/
 .vscode
 tt.py
+.pytest_cache
